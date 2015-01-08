@@ -1,6 +1,6 @@
 Installation instructions:
 	Edit the get_leads.php and add your API key.
-	Copy all files to your webserver to a subfold of your choosing.
+	Copy all files to your webserver to a subfolder of your choosing.
 	Adjust permissions as necessary.
 	The scripts needs to write to 3 files (count.txt, leads.csv, and timer.txt)
 	
@@ -11,7 +11,7 @@ Installation instructions:
 	<script>
 		$.ajax({
 			type: "GET",
-			url: 'http://www.allenidx.com/leads/get_leads.php',
+			url: 'http://www.yourwebsite.com/your-sub-folder/get_leads.php',
 		});
 	</script>
 	// End Code Snippet //
