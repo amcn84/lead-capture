@@ -21,3 +21,7 @@ About:
 	then send on to the CRM of your choice or use yourself to keep a spreadsheet. The script will
 	automatically timeout for an hour if the Hourly Access Rate is over 50. That threshhold can be
 	adjusted by editing the check.php file.
+
+Disclaimer:
+	Standard Disclaimer: This code is not official IDX Broker code. It does use their API, but in 
+	NO WAY is it supported by IDX Broker. DO NOT contact IDX Broker for any support of this code.
